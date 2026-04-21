@@ -2,7 +2,7 @@
 ### 260421
 DB 설계서
   - 집에가고싶조:
-  - 세븐일레븐:
+  - 세븐일레븐:https://docs.google.com/spreadsheets/d/1W4IsNRTPrSiyszQimGllRlsEe8BhV4JjhRUXJtow_r0/edit?gid=364761285#gid=364761285
   - 인텔리제이조:
   - 남자만있조:
   - 버그잡았조:
@@ -36,7 +36,7 @@ DB 설계서
 ### 260403
 시장 조사 및 벤치마킹
   - 집에가고싶조: https://www.notion.so/343e7e39b1978093bac4f74a55bdd871
-  - 세븐일레븐: https://www.notion.so/332984c1fe3280b987a7d15af39ed569
+  - 세븐일레븐: https://www.notion.so/337c6c4cb51580bca059e4a7826a98ef
   - 인텔리제이조: https://www.notion.so/1-333e5ca0a9718025aebaeb454e1d7d19
   - 남자만있조: https://superb-armchair-95d.notion.site/334f734340a78017b915f79f01ab2ec2?v=334f734340a780edbc5e000ca2c33f0a&source=copy_link
   - 버그잡았조:https://docs.google.com/document/d/1bXYUe9IgjIPNUM2Ms67_BA_QahPjE1XNiJi_MW5MTYw/edit?usp=sharing
